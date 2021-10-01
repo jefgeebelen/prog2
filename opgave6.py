@@ -1,0 +1,1 @@
+input("wat is u naam")
