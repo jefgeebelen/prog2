@@ -1,1 +1,2 @@
-input("wat is u naam")
+naam = input("hoe heet je")
+print("hallo", naam)
